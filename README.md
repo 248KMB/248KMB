@@ -9,7 +9,7 @@ You can view my full resume <a href="https://drive.google.com/file/d/1cwg_9-mzwz
 ## Projects
 
 ### Project 1: <a href="https://github.com/248KMB/DarkHaven"> DarkHaven </a>
-### Project 2: <a href="#"> B-BALL </a>
+### Project 2: <a > B-BALL </a>
 ---
 ## Skills
 - **Game Engines:** Unity
