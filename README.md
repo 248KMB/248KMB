@@ -1,4 +1,4 @@
-# Game Design Portfolio
+# My Portfolio
 
 ## Introduction
 Hello! I'm Kobe Martinez, a graduate of Computer Science and a passionate game designer with a focus on game design and mechanics while having side skills in web development and Data Science. 
