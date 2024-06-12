@@ -4,7 +4,7 @@
 Hello! I'm Kobe Martinez, a graduate of Computer Science and a passionate game designer with a focus on game design and mechanics while having side skills in web development and Data Science. 
 
 ## Resume
-You can view my full resume <a href="https://drive.google.com/file/d/1cwg_9-mzwzHeynf7YwiUTr78t8o7vm-_/view?usp=sharing">here</a>
+You can view my full resume <a href="https://drive.google.com/file/d/1OI81fGyewD3T4PP4VdvBDuH_lyiJiM68/view?usp=sharing">here</a>
 
 ## Projects
 
