@@ -23,7 +23,7 @@ You can view my full resume <a href="https://drive.google.com/file/d/1OI81fGyewD
 ## Contact
 Feel free to reach out to me through the following channels:
 
-- **Email:** KobeMartinez98@yahoo.com
+- **Email:** kobemarbusiness@zohomail.com
 - **LinkedIn:** <a href="https://www.linkedin.com/in/kobe-martinez-69595327b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkNQRdC3cTfiu4ZLFkuGZXg%3D%3D"> here </a>
 ---
 ## License
